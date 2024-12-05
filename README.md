@@ -118,9 +118,6 @@ http://localhost:5000
 4. Regularly scan downloaded files
 5. Keep MSDT disabled when not needed
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests.
 
 ## License
 
